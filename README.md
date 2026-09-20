@@ -30,7 +30,7 @@
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayanmanna123&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Zaid-coder&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
 
 </div>
 
@@ -41,25 +41,25 @@
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayanmanna123&theme=tokyonight" alt="Profile Details" width="100%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Md-Zaid-coder&theme=tokyonight" alt="Profile Details" width="100%"/>
 
 </div>
 
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayanmanna123&theme=tokyonight" alt="Repos Per Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Md-Zaid-coder&theme=tokyonight" alt="Repos Per Language" width="48%"/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayanmanna123&theme=tokyonight" alt="Most Commit Language" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Md-Zaid-coder&theme=tokyonight" alt="Most Commit Language" width="48%"/>
 
 </div>
 
 
 <div align="center">
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayanmanna123&theme=tokyonight" alt="Stats" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Md-Zaid-coder&theme=tokyonight" alt="Stats" width="48%"/>
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayanmanna123&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Md-Zaid-coder&theme=tokyonight&utcOffset=5.5" alt="Productive Time" width="48%"/>
 
 </div>
 
@@ -71,9 +71,9 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/ayanmanna123/ayanmanna123/blob/output/github-contribution-grid-snake-dark.svg" />
+    srcset="https://github.com/Md-Zaid-coder/Md-Zaid-coder/blob/output/github-contribution-grid-snake-dark.svg" />
   <img
-    src="https://github.com/ayanmanna123/ayanmanna123/blob/output/github-contribution-grid-snake.svg"
+    src="https://github.com/Md-Zaid-coder/Md-Zaid-coder/blob/output/github-contribution-grid-snake.svg"
     alt="Snake animation" />
 </picture>
 ---
@@ -91,13 +91,13 @@
 <!-- 🌗 3D Graph for Light/Dark -->
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/ayanmanna123/ayanmanna123/main/profile-3d-contrib/profile-night-rainbow.svg" />
-  <img src="https://raw.githubusercontent.com/ayanmanna123/ayanmanna123/main/profile-3d-contrib/profile-night-rainbow.svg" 
+          srcset="https://raw.githubusercontent.com/Md-Zaid-coder/Md-Zaid-coder/main/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img src="https://raw.githubusercontent.com/Md-Zaid-coder/Md-Zaid-coder/main/profile-3d-contrib/profile-night-rainbow.svg" 
        alt="3D Contribution Graph" />
 </picture>
 
 </div>
 
-[![](https://visitcount.itsvg.in/api?id=ayanmanna123&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Md-Zaid-coder&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
